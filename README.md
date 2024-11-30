@@ -23,4 +23,4 @@ I found the Death Star's C & JavaScript code on Rosettacode.org, and I adapted t
 ## Copyright Disclaimer
 
 I do not own the IP of the Star Wars content published in this project.
-I do not profit, or plan to, from Star Wars content I published or will publish as much as I do not earn anything from publishing this code. This is purely for education and scientific/engineering research.
+I do not profit, or plan to hereafter, from Star Wars content I published or will publish as much as I do not earn anything from publishing this code. This is purely for education and scientific/engineering research.
